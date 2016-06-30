@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x -O3 -ffast-math -Wall    CMakeFiles/lbmslv.dir/./lbmslv_generated_cuda_for.cu.o  -o lbmslv -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

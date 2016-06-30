@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/LBP.dir/./LBP_generated_cuda_for.cu.o  -o LBP -rdynamic /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 
